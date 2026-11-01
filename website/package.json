@@ -122,7 +122,7 @@
     "path-browserify": "^1.0.1",
     "pino-pretty": "^10.2.0",
     "prettier": "^2.8.8",
-    "prisma": "^4.14.0",
+    "prisma": "^7.10.1",
     "storybook": "^7.0.9",
     "ts-essentials": "^9.3.2",
     "ts-node": "^10.9.1",
