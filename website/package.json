@@ -59,7 +59,7 @@
     "eslint-config-next": "^13.4.6",
     "eslint-plugin-simple-import-sort": "^10.0.0",
     "focus-visible": "^5.2.0",
-    "framer-motion": "^6.5.1",
+    "framer-motion": "^14.14.0",
     "friendly-username-generator": "^2.0.4",
     "lande": "^1.0.10",
     "lucide-react": "^0.105.0",
